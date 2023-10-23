@@ -1,0 +1,20 @@
+C:\Users\0319be\Downloads\RandomDistance\RandomDistance\bin\Debug\RandomDistance.exe.config
+C:\Users\0319be\Downloads\RandomDistance\RandomDistance\bin\Debug\RandomDistance.exe
+C:\Users\0319be\Downloads\RandomDistance\RandomDistance\bin\Debug\RandomDistance.pdb
+C:\Users\0319be\Downloads\RandomDistance\RandomDistance\obj\Debug\RandomDistance.csprojResolveAssemblyReference.cache
+C:\Users\0319be\Downloads\RandomDistance\RandomDistance\obj\Debug\RandomDistance.Form1.resources
+C:\Users\0319be\Downloads\RandomDistance\RandomDistance\obj\Debug\RandomDistance.Properties.Resources.resources
+C:\Users\0319be\Downloads\RandomDistance\RandomDistance\obj\Debug\RandomDistance.csproj.GenerateResource.Cache
+C:\Users\0319be\Downloads\RandomDistance\RandomDistance\obj\Debug\RandomDistance.exe
+C:\Users\0319be\Downloads\RandomDistance\RandomDistance\obj\Debug\RandomDistance.pdb
+E:\CPS LAB\RandomDistance\RandomDistance\bin\Debug\RandomDistance.exe.config
+E:\CPS LAB\RandomDistance\RandomDistance\bin\Debug\RandomDistance.exe
+E:\CPS LAB\RandomDistance\RandomDistance\bin\Debug\RandomDistance.pdb
+E:\CPS LAB\RandomDistance\RandomDistance\obj\Debug\RandomDistance.csproj.AssemblyReference.cache
+E:\CPS LAB\RandomDistance\RandomDistance\obj\Debug\RandomDistance.csproj.SuggestedBindingRedirects.cache
+E:\CPS LAB\RandomDistance\RandomDistance\obj\Debug\RandomDistance.Form1.resources
+E:\CPS LAB\RandomDistance\RandomDistance\obj\Debug\RandomDistance.Properties.Resources.resources
+E:\CPS LAB\RandomDistance\RandomDistance\obj\Debug\RandomDistance.csproj.GenerateResource.cache
+E:\CPS LAB\RandomDistance\RandomDistance\obj\Debug\RandomDistance.csproj.CoreCompileInputs.cache
+E:\CPS LAB\RandomDistance\RandomDistance\obj\Debug\RandomDistance.exe
+E:\CPS LAB\RandomDistance\RandomDistance\obj\Debug\RandomDistance.pdb
